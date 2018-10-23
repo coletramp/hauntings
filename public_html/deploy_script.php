@@ -5,7 +5,7 @@
 		<title>Deployment Script</title>
 	</head>
 	<body>
-	<p>Deploy script for (Cole Tramp)</p>
+	<p>Deploy script for (Cole D Tramp)</p>
 		<pre>
 		
 <?php
